@@ -174,11 +174,10 @@ Top wallet address 140 million :
 
 Phase 1 : We Evolve
 
-Through the Tank of Hybrid Evolution 40%APY (SHARK-SWAP)
+Through the Tank of Hybrid Evolution 40%APY $VBS Vanta Black Sharks 
 We will build multiple liquidity Mining pools 
  to scale arbitrage and market making trades, 
-short the spot market in size , and hedge overall portfolio risk.
-Comprehensive real-time and historical analytics, including cash and crypto balances,with Interest payments, 
+short the spot market in size , and hedge overall portfolio risk. (SHARK-SWAP) Comprehensive real-time and historical analytics, including cash and crypto balances,with Interest payments, 
 
 
 
