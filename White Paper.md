@@ -1,6 +1,6 @@
 #SHRK White Paper 
 
-     Welcome to your Future Quantum Security Investment 
+     Welcome to your Future Universal Hybrid Investment Asset
                 the 
           Shark Fin. Protocol 
 
@@ -18,9 +18,9 @@
 
 ~-~-~~-~-~~-~-~~-~-~~-~-~~-~-~~-~-~~-~-~~-~-~~-~-~~-~-~~-~-~~-~-~~-~-~~-~-~~-~-~~-~-~~-~-~~-~-~~-~-~~-~-~~-~-~~-~-~~-~-~~-~-~~-~-~~-~-~~-~-~~-~-~
 ~~~~~~Running Water Never Goes Stale  ~~~~~~ 
-Forever evolving 
+Forever Evolving 
 
-Universal Quantum Electronic Payment system 
+Universal Hybrid Electronic Payment system 
 
 Money is like water. It can be a conduit for commitment, Money moving in the direction of our highest commitments nourishes our world and ourselves. Know the flow take responsibility for the way your money moves in the world.
 
@@ -40,8 +40,8 @@ Shrk was  the first ZRC-2 token available on Zilswap.https://zilswap.io/swap
 $SHKR will start of Universal ZRC-2 leverage exchange token that will create a future of frictionless arbitrage opportunities around the world, which in turn increases volume, that increases price  
  for stable 10 year private security investing opportunities.
 We can use this formula Volume+Efficiency+Fees = Price Also a protocol to return the fees to the provider over a period of liquidity loyalty 
-                    We then will evolve and grow from the tank of defi evolution & loans in the future.  
-            I believe that investors around the world want a stable investment,
+                    We then will evolve and grow from the tank of Hybrid evolution & loans in the future.  
+            I believe that investors around the world want a 10+ year stable investment.
  that is fast and efficient they can transfer and hedge liquidity with less fees in less time seamlessly. 
               this is why $Shrk runs on Zilliqa’s blockchain to keep fees and friction to a minimum because as an investor you want maximum gains with maximum efficiency and 
 minimum fees attached. 
@@ -165,7 +165,7 @@ Token allocation / inflation Tokenomics *
 
 Lock up 140 million for future developments unlocked in 3 years  
 
-Top wallet address 70 million :    
+Top wallet address 140 million :    
 
 1. Zil109vuy7hj9epl4zxse09vy6wrt04ytkcmw438zy
 2. Zil1vtjutgxcgn75g7279ncflxk6gh9j8gshcav0hd
@@ -174,7 +174,7 @@ Top wallet address 70 million :
 
 Phase 1 : We Evolve
 
-Through the Tank of Quantum Evolution (SHARK-SWAP)
+Through the Tank of Hybrid Evolution 40%APY (SHARK-SWAP)
 We will build multiple liquidity Mining pools 
  to scale arbitrage and market making trades, 
 short the spot market in size , and hedge overall portfolio risk.
