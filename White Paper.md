@@ -27,10 +27,10 @@ Money is like water. It can be a conduit for commitment, Money moving in the dir
  WHAT IS $SHRK ?
 a vehicle to the the first quantum #fintech ecosystem
 
-$Shrk will be the security token for SharkCapital.
+$Shrk will be the Native token for SharkCapital.
 
 $SHRK Is Rare * 
-The First Quantum Electronic Tamperproof Asset*
+The First Hybrid Electronic Tamper proof Asset*
 Initial Sup: 420 million. NO MORE 
  
 without quantitative easing from mining it yet.  
