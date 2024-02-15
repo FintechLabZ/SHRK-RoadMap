@@ -34,7 +34,7 @@ The First Hybrid Electronic Tamper proof Asset*
 Initial Sup: 420 million. NO MORE 
  
 without quantitative easing from mining it yet.  
- We have only Minted 21.72154% of the total supply and we have 140M locked up for 3 years for Future developments.
+ We have only Minted 21.72154% of the total supply and we have 140M locked up for 5 years for Future developments.
 
 Shrk was  the first ZRC-2 token available on Zilswap.https://zilswap.io/swap  
 $SHKR will start of Universal ZRC-2 leverage exchange token that will create a future of frictionless arbitrage opportunities around the world, which in turn increases volume, that increases price  
