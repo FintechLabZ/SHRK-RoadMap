@@ -43,14 +43,9 @@ We can use this formula Volume+Efficiency+Fees = Price Also a protocol to return
                     We then will evolve and grow from the tank of Hybrid evolution & loans in the future.  
             I believe that investors around the world want a 10+ year stable investment.
  that is fast and efficient they can transfer and hedge liquidity with less fees in less time seamlessly. 
-              this is why $Shrk runs on Zilliqa’s blockchain to keep fees and friction to a minimum because as an investor you want maximum gains with maximum efficiency and 
-minimum fees attached. 
+              this is why $Shrk runs on the robust backbone of Zilliqa’s blockchain to keep fees and friction to a minimum. 
 
 
-What is Arbitrage? 
-
-A second challenge for decentralized swapping systems is ensuring that the price ratio between each asset pair remains (relatively) consistent with the rest of the market. Each swap conducted using a given liquidity pool will result in a shift in the balance of the pool’s asset pair; the larger the swap, the bigger the resulting imbalance. Such an imbalance will give rise to an arbitrage opportunity: sharp-eyed traders with readily accessible stores of the relevant asset will be able to swoop in and swap the overvalued asset against the undervalued asset then sell the undervalued asset on other exchanges, turning a tidy profit. This process will repeat until the liquidity pool is once again balanced with the wider market. After a series of relatively large swaps and a return to fair market price, the total value in a given pool should always increase due to the fees collected on each swap.
-                                     
 
 APIs have replaced the whole paper process
       Digitalization & adoption of electronic payments
@@ -64,7 +59,7 @@ Quantum Distributed ledger
 What we run on 
       Fin Tech
 
-being that $Shrk runs on the backbone of Zilliqa's blockchain and that they utilize shard networks,
+Being that $Shrk runs on the robust backbone of Zilliqa's blockchain and that they utilize shard networks,
 $Shrk is able to process multiple transactions in a decentralized manner without a trusted coordinator through distributed ledger & Its network architecture allows the platform to remain decentralized as it continues to grow and expand with Lowest fees!
 
 
@@ -73,8 +68,6 @@ Fees are usually correlated with network congestion and transaction backlogs. Th
 
 
 What about Security?
- 
-
  Fear Nothing!!
 
  $SHRK runs on Zilliqa’s silicon smooth blockchain, that is actively working with Chainlink for an added security layer of security on top of the most secure blockchain. 
@@ -85,12 +78,12 @@ $Shrk swims fast and efficiently
  100% unseasable Asset
 
 
-$SHRK will swim in the wallets of the wealthy 
+$SHRK will swim in the wallets of the wealthiest 
 Fast and Efficiently 
    
 
 
-Establishing Price*
+Establishing Price
 
 looking at simple techniques to estimate the price for an asset. 
 The more advanced economic mechanisms can open up new possibilities for the markets and can be very useful to let the market signal the price.
@@ -110,7 +103,7 @@ Traders * who monitor pools and rebalance continually, paying fees but with the 
 Aribitors * Elite Traders that seek out price differences and maximize in proffits, also continuing to pay fees wile acquiring profit 
 
 
-Disruption brings opportunity!!
+Disruption brings Opportunity!!
 
 We will disrupt decentralized finance and become the influence! 
 
@@ -118,31 +111,27 @@ We will disrupt decentralized finance and become the influence!
 Time Frame *
 6 Phases 
 In roadmap for $SHRK
-Own Liquidity Protocol
-Top Holder Rewards 
-Hedge Fund Management Overlay  
 
 
+{We Have Initiated} PHASE {1}
 
-{we have Initiated} 
 
-Phase O : Early Investor Protocol Launch: 
+Phase O : Early Investor Protocol Launch: [Completed]
 early investors are
 who we consider to be long term 
 coin holders and want help with further development of the asset 
 During this phase we will design 
 SHARK Capital LabZ 
 
-a Professional Asset and Hedge Fund Management Holdings  
+Professional Asset and Hedge Fund Management Holdings  
 
-Also during this phase we will design $Shrk merchandise
+Also during this phase we will design $Shrk merch
  so we can grow through mainstream adoption
- design the websites & wallets
- for hedge fundamentals
-Build FinTech SharkSwap & Shark Pool for liquidity providers  
+ Shark Pool for liquidity providers  
 
-We chose Shark because water is constantly moving ,in  currents   
-And so are we to develop you the best investments, in the current market situations.
+Choose Shark because, Sharks cant swim backwords {they die}
+Water is Constant moving in Currents, that move Currency, Effectively, & Efficiently
+And so are we to develop you the best investments, 
 
 
 $Shrk will swim through the wallets and the exchanges around the world *
@@ -163,7 +152,7 @@ Token allocation / inflation Tokenomics *
 
   420 million divided by 6 = main holders 70 million $Shrk in each main holders wallet 
 
-Lock up 140 million for future developments unlocked in 3 years  
+Lock up 140 million for future developments unlocked in 4 years [ 1 year Left ]
 
 Top wallet address 140 million :    
 
@@ -172,16 +161,16 @@ Top wallet address 140 million :
 3. Zil1yeh7jpv20savtd3katuj9zk2hu57um75jdsysz
 
 
-Phase 1 : We Evolve
+Phase 1 : We Evolve 
 
-Through the Tank of Hybrid Evolution 40%APY $VBS Vanta Black Sharks 
+Through the Aquarium of Interest 40%APY $VBS Vanta Black Sharks 
 We will build multiple liquidity Mining pools 
  to scale arbitrage and market making trades, 
 short the spot market in size , and hedge overall portfolio risk. (SHARK-SWAP) Comprehensive real-time and historical analytics, including cash and crypto balances,with Interest payments, 
 
 
 
-Phase 2:Begin Token listings on different exchanges around the world*
+Phase 2:Begin Token listings on different Exchanges around the World
 
 In this phase we will do a media push to over 1 million Subscribers before listing  
 through our investor relations. 
@@ -190,10 +179,10 @@ Phase 3:
 
 In this phase we will also build 
 Hedge Fund Management for private investors
-that want to establish shares in Shark Capital 
+that want to establish shares in Shark Capital Global Company 
 
 
-$SHRK will swim through the wallets on exchanges and wallets of the wealthy * 
+$SHRK will swim through the wallets on exchanges and wallets of the wealthiest.
 
         ,|
       / ;
