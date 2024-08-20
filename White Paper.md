@@ -22,28 +22,36 @@ Forever Evolving
 
 Universal Hybrid Electronic Payment system 
 
-Money is like water. It can be a conduit for commitment, Money moving in the direction of our highest commitments nourishes our world and ourselves. Know the flow take responsibility for the way your money moves in the world.
+Money is water. It can be a conduit for commitment.
+Money moving in the direction of our Highest commitments nourishes our World and ourselves.
+Know the flow take Responsibility for the way your Money moves in the World.
+
+6% fees go to Marine Life Foundations / Endangered Species of Sharks.
+  
 
  WHAT IS $SHRK ?
-a vehicle to the the first quantum #fintech ecosystem
+A Vehicle to the the First Quantum Fintech Ecosystem
 
-$Shrk will be the Native token for SharkCapital.
+$SHRK will be the native token for Shark Capital Global Company
 
-$SHRK Is Rare * 
+* * *  $SHRK Is RARE  * * *
 The First Hybrid Electronic Tamper proof Asset*
-Initial Sup: 420 million. NO MORE 
- 
-without quantitative easing from mining it yet.  
- We have only Minted 21.72154% of the total supply and we have 140M locked up for 5 years for Future developments.
 
-Shrk was  the first ZRC-2 token available on Zilswap.https://zilswap.io/swap  
-$SHKR will start of Universal ZRC-2 leverage exchange token that will create a future of frictionless arbitrage opportunities around the world, which in turn increases volume, that increases price  
- for stable 10 year private security investing opportunities.
-We can use this formula Volume+Efficiency+Fees = Price Also a protocol to return the fees to the provider over a period of liquidity loyalty 
-                    We then will evolve and grow from the tank of Hybrid evolution & loans in the future.  
-            I believe that investors around the world want a 10+ year stable investment.
- that is fast and efficient they can transfer and hedge liquidity with less fees in less time seamlessly. 
-              this is why $Shrk runs on the robust backbone of Zilliqa’s blockchain to keep fees and friction to a minimum. 
+Token Allocation
+Initial Sup: 420 million.
+10% to minners  [2025 Update]
+We have only Minted 21.72154% of the total supply. 
+140M Team locked up for 4 years for Future developments.
+23% Suppy Total. NO MORE [2024 Update]
+
+
+$SHRK was  the first ZRC-2 token available on Zilswap.https://zilswap.io/swap  
+$SHRK will start off as Universal ZRC-2 leverage exchange token that will create a future of frictionless arbitrage opportunities around the world, which in turn increases volume, that increases price.  
+We can use this formula Volume+Efficiency+Fees = Price 
+We then will Evolve and grow from the Aquarium of Interest.
+we believe that investors around the world want a 10+ year stable investment.
+that is fast and efficient they can transfer and hedge liquidity with less fees in less time seamlessly. 
+this is why $SHRK runs on the robust backbone of Zilliqa’s blockchain to keep fees and friction to a minimum. 
 
 
 
@@ -56,7 +64,7 @@ All funds are on the blockchain itself. This means that we do not control them.
 * We are committed to complete transparency *
 
 Quantum Distributed ledger 
-What we run on 
+What we run on SCILLA
       Fin Tech
 
 Being that $Shrk runs on the robust backbone of Zilliqa's blockchain and that they utilize shard networks,
@@ -74,9 +82,8 @@ What about Security?
 So 
 $Shrk swims fast and efficiently 
  your sharks are safe. 
-   Your sharks are decentralized! 
- 100% unseasable Asset
-
+ Your sharks are decentralized! 
+ 
 
 $SHRK will swim in the wallets of the wealthiest 
 Fast and Efficiently 
