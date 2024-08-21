@@ -32,7 +32,7 @@ Know the flow take Responsibility for the way your Money moves in the World.
  WHAT IS $SHRK ?
 A Vehicle to the the First Quantum Fintech Ecosystem
 
-$SHRK will be the native token for Shark Capital Global Company
+$SHRK will be the native Token for Shark Capital Global Company
 
 * * *  $SHRK Is RARE  * * *
 The First Hybrid Electronic Tamper proof Asset*
@@ -125,15 +125,15 @@ In roadmap for $SHRK
 {We Have Initiated}  PHASE {1}
 
 
-Phase O : Early Investor Protocol Launch: [Completed]
-early investors are
+Phase O :  Investor Protocol/Mainnet Launch: [Completed]
+Early Investors are
 who we consider to be long term 
-coin holders and want help with further development of the asset 
+Token holders and want help with further development of the asset 
 During this phase we will design 
 Shark Capital Global Company 
 Professional Asset & Hedge Fund Management Holdings  
 
-Also during this phase we will design $Shrk merch
+Also during this phase we will design $SHRK merch
 so we can grow through mainstream adoption
 Shark Pool for liquidity providers  [ZilSWAP]
 
@@ -148,11 +148,11 @@ Seamlessly and Efficiently.
 
 Value Transfer 
 
-$SHRK is the central unit of account and value transfer between the various stakeholders within the Quantum FinTech ecosystem. 
+$SHRK is the central Unit of Account and Value Transfer between the various Stakeholders within the Quantum FinTech Ecosystem. 
 There are numerous types of transactions that can take place:
 
  1.) Revenue Transactions: DEVs gets paid in $shark for services or products. 
- If revenue is received in $Shark, the tokens go back into the Shark
+ If revenue is received in $Shark, the Tokens go back into the Shark
  treasury wallet for further growth.
 2.) Expense Transactions : Shark incurs recurring expenses to fund operations and growth. It can often pay expenses directly in $shrk.
 
