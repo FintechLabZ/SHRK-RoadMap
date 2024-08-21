@@ -75,17 +75,21 @@ Its network architecture allows the platform to remain decentralized as it conti
 
 
 
-Fees are usually correlated with network congestion and transaction backlogs. The fee market in legacy chains can push the costs to as high as a few dollars. Due to the scaling ability,and low fees on Zilliqa’s chain, even allowing micro-payments to be processed fast and Efficiently. 
+Fees are usually correlated with network congestion and transaction backlogs.
+The fee market in legacy chains can push the costs to as high as a few dollars.
+Due to the Scaling ability, Sharding and Low fees on Zilliqa’s chain,
+even allowing micro-payments to be processed fast and Efficiently.
+$SHRK is the Fastest & Safeiest Asset you can own.
 
 
 What about Security?
- Fear Nothing!!
+Fear Nothing!!
 
- $SHRK runs on Zilliqa’s silicon smooth blockchain, that is actively working with Chainlink for an added security layer of security on top of the most secure blockchain. 
-So 
-$Shrk swims Fast and Ffficiently 
- your sharks are safe. 
- Your sharks are decentralized! 
+$SHRK runs on Zilliqa’s silicon smooth blockchain, that is actively working with Chainlink for an added security layer of security on top of the most secure blockchain. 
+So.... 
+$Shrk swims Fast and Efficiently 
+your sharks are safe. 
+Your sharks are decentralized! 
  
 
 $SHRK will swim in the wallets of the wealthiest 
@@ -168,7 +172,7 @@ Treasury Wallets:
 3. Zil1yeh7jpv20savtd3katuj9zk2hu57um75jdsysz
 4. zil1eadtael94ezfqesgzngfprk7lt4x5a7cslan0t
 
-Phase 1 : We Evolve  {Running}
+Phase 1 : We Evolve  [Running]
 
 Through the Aquarium of Interest 40%APY $VBS Vanta Black Sharks 
 We will build multiple liquidity Mining pools.
