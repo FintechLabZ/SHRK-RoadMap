@@ -24,7 +24,7 @@ Universal Hybrid Electronic Payment system
 
 Money is water. It can be a conduit for commitment.
 Money moving in the direction of our Highest commitments nourishes our World and ourselves.
-Know the flow take Responsibility for the way your Money moves in the World.
+Know the Flow take Responsibility for the way your Money moves in the World.
 
 6% fees go to Marine Life Foundations / Endangered Species of Sharks.
   
@@ -57,10 +57,10 @@ this is why $SHRK runs on the robust backbone of Zilliqa’s blockchain on Scill
 
 
 APIs have replaced the whole paper process
-Digitalization & adoption of electronic payments
+Digitalization & Adoption of Electronic payments
 
-All funds are on the blockchain itself.
-This means that we do not control them. 
+All funds are on the Blockchain itself.
+This means that We Do Not Control Them. 
 
 
 * We are committed to complete transparency *
@@ -168,7 +168,7 @@ Treasury Wallets:
 3. Zil1yeh7jpv20savtd3katuj9zk2hu57um75jdsysz
 4. zil1eadtael94ezfqesgzngfprk7lt4x5a7cslan0t
 
-Phase 1 : We Evolve 
+Phase 1 : We Evolve  {Running}
 
 Through the Aquarium of Interest 40%APY $VBS Vanta Black Sharks 
 We will build multiple liquidity Mining pools.
