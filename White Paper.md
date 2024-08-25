@@ -183,12 +183,12 @@ $VBS Supply 6M
 3 Tier Staking Contracts. More infomation on Website { Coming Soon }                
 
 
+HYPERLEDGER ADAPTIVE ( Coming Soon )
 
 
 
 
-
-Phase 2: Begin Token listings on different Exchanges around the World
+Phase 2: Begin Token listings on different Exchanges DEX & CEX around the World
 
 In this phase we will do a media push to over 1 million Subscribers before listing  
 through our investor relations. 
